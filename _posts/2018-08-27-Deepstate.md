@@ -1,4 +1,12 @@
-# DeepState
+---
+title: "DeepState"
+categories:
+  - Symbolic Execution
+tags:
+  - Symbolic execution
+  - C
+  - Unit Testing
+---
 
 DeepState -- a symbolic execution framework for C and C++ makes using fuzzing to test rather straightforward. Instead of writing a custom analysis, developers can simply annotate their C and C++. DeepState provides developers with a "Google Test-esque" UI, making testing with DeepState a familiar and easy process. The goal of this article is to demonstrate how one can incorporate DeepState into a typical C/C++ application.
 
